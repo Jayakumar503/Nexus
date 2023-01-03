@@ -1,4 +1,4 @@
-import Moralis from 'moralis';
+/*import Moralis from 'moralis';
 
 export interface RequestMessage {
   address: string;
@@ -35,4 +35,4 @@ export async function requestMessage({
   const { message } = result.toJSON();
 
   return message;
-}
+} */
